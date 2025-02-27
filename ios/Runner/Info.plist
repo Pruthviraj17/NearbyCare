@@ -29,14 +29,14 @@
 			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>com.googleusercontent.apps.41064301040-rhq4n9d1qq74vi6v8717a6867tuksda5</string>
+				<string>com.googleusercontent.apps.285820692200-losuksfvrnipg22oc4s4ch2l2itnmjis</string>
 			</array>
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
 	<key>GIDClientID</key>
-	<string>41064301040-rhq4n9d1qq74vi6v8717a6867tuksda5</string>
+	<string>285820692200-losuksfvrnipg22oc4s4ch2l2itnmjis</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 	<key>NSLocationWhenInUseUsageDescription</key>
